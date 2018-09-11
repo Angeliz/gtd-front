@@ -259,6 +259,32 @@ export default [
       {
         component: '404',
       },
+
+      /*
+       * ====================***====================
+       */
+
+      // focus
+      {
+        name: 'focus',
+        icon: 'warning',
+        path: '/focus',
+        component: './Focus/404',
+      },
+      // recommend
+      {
+        name: 'recommend',
+        icon: 'warning',
+        path: '/recommend',
+        component: './Recommend/404',
+      },
+      // topics
+      {
+        name: 'topics',
+        icon: 'warning',
+        path: '/topics',
+        component: './Topics/404',
+      },
     ],
   },
 ];

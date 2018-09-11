@@ -185,4 +185,13 @@ export default {
   'app.setting.copyinfo': 'copy success，please replace defaultSettings in src/models/setting.js',
   'app.setting.production.hint':
     'Setting panel show in development enviorment only, please mannually modify',
+
+
+  /*
+   * ====================***====================
+   */
+
+  'menu.focus': 'Focus',
+  'menu.recommend': 'Recommend',
+  'menu.topics': 'Topics',
 };
